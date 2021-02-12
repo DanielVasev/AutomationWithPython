@@ -1,2 +1,3 @@
 # AutomationWithPython
-AutomationWithPython
+AutomationUniversity
+
